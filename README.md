@@ -1,6 +1,6 @@
 # Skupper Declarative Hello World
 
-[![main](https://github.com/skupperproject/skupper-example-hello-world/actions/workflows/main.yaml/badge.svg)](https://github.com/skupperproject/skupper-example-hello-world/actions/workflows/main.yaml)
+[![main](https://github.com/skupperproject/skupper-example-declarative/actions/workflows/main.yaml/badge.svg)](https://github.com/skupperproject/skupper-example-declarative/actions/workflows/main.yaml)
 
 #### A minimal HTTP application deployed across Kubernetes clusters using Skupper
 
